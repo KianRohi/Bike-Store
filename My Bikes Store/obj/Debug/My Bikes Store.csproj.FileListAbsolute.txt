@@ -1,0 +1,22 @@
+C:\Users\Stinson\source\repos\My Bikes Store\My Bikes Store\obj\Debug\My Bikes Store.csprojAssemblyReference.cache
+C:\Users\Stinson\source\repos\My Bikes Store\My Bikes Store\obj\Debug\My_Bikes_Store.Properties.Resources.resources
+C:\Users\Stinson\source\repos\My Bikes Store\My Bikes Store\obj\Debug\My Bikes Store.csproj.GenerateResource.cache
+C:\Users\Stinson\source\repos\My Bikes Store\My Bikes Store\obj\Debug\My Bikes Store.csproj.CoreCompileInputs.cache
+C:\Users\Stinson\source\repos\My Bikes Store\My Bikes Store\bin\Debug\My Bikes Store.exe.config
+C:\Users\Stinson\source\repos\My Bikes Store\My Bikes Store\bin\Debug\My Bikes Store.exe
+C:\Users\Stinson\source\repos\My Bikes Store\My Bikes Store\bin\Debug\My Bikes Store.pdb
+C:\Users\Stinson\source\repos\My Bikes Store\My Bikes Store\obj\Debug\My_Bikes_Store.Form1.resources
+C:\Users\Stinson\source\repos\My Bikes Store\My Bikes Store\obj\Debug\My Bikes Store.exe
+C:\Users\Stinson\source\repos\My Bikes Store\My Bikes Store\obj\Debug\My Bikes Store.pdb
+D:\support\kianr\OneDrive\Desktop\My Bikes Store\My Bikes Store\obj\Debug\My Bikes Store.exe
+D:\support\kianr\OneDrive\Desktop\My Bikes Store\My Bikes Store\obj\Debug\My Bikes Store.pdb
+C:\Users\Donato\Downloads\My Bikes Store\My Bikes Store\My Bikes Store\obj\Debug\My Bikes Store.csprojAssemblyReference.cache
+C:\Users\Donato\Downloads\My Bikes Store\My Bikes Store\My Bikes Store\obj\Debug\My_Bikes_Store.Form1.resources
+C:\Users\Donato\Downloads\My Bikes Store\My Bikes Store\My Bikes Store\obj\Debug\My_Bikes_Store.Properties.Resources.resources
+C:\Users\Donato\Downloads\My Bikes Store\My Bikes Store\My Bikes Store\obj\Debug\My Bikes Store.csproj.GenerateResource.cache
+C:\Users\Donato\Downloads\My Bikes Store\My Bikes Store\My Bikes Store\obj\Debug\My Bikes Store.csproj.CoreCompileInputs.cache
+C:\Users\Donato\Downloads\My Bikes Store\My Bikes Store\My Bikes Store\obj\Debug\My Bikes Store.exe
+C:\Users\Donato\Downloads\My Bikes Store\My Bikes Store\My Bikes Store\obj\Debug\My Bikes Store.pdb
+C:\Users\Donato\Downloads\My Bikes Store\My Bikes Store\My Bikes Store\bin\Debug\My Bikes Store.exe.config
+C:\Users\Donato\Downloads\My Bikes Store\My Bikes Store\My Bikes Store\bin\Debug\My Bikes Store.exe
+C:\Users\Donato\Downloads\My Bikes Store\My Bikes Store\My Bikes Store\bin\Debug\My Bikes Store.pdb
